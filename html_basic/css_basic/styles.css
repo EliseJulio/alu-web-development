@@ -1,0 +1,33 @@
+body{
+    display: flext;
+    flex-direction: column;
+}
+header{
+    border-bottom: 1px solid #eee;
+}
+
+.logo{
+    font-size: large;
+    font-size: 30px;
+    text-decoration: none;
+    color: red;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article{
+    flex: 2;
+    overflow-y: auto;
+    margin: 0 auto;
+
+
+}
+
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
