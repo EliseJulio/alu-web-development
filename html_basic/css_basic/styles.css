@@ -1,5 +1,5 @@
 body{
-    display: flext;
+    display: flex;
     flex-direction: column;
 }
 header{
