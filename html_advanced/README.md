@@ -1,2 +1,2 @@
 Web Development
-![A picture of ALU]](image.png)
+![A picture of ALU](image.png)
